@@ -1,0 +1,7 @@
+selenium
+webdriver-manager
+requests
+sqlite3
+python-dotenv
+ollama  # For local LLM
+schedule  # For daily scheduling
